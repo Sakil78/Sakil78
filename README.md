@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-77e4-622f-b2c6-6a28a6a91a7b/raw?se=2025-04-13T07%3A21%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=94a5165f-0dde-5ab5-9fcf-0d6d6f10322e&skoid=a3336399-497e-45e5-8f28-4b88ecca3d1f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-12T21%3A41%3A48Z&ske=2025-04-13T21%3A41%3A48Z&sks=b&skv=2024-08-04&sig=e2aRPFwORVe1uAx9lQa6l35siVpUXGVSzmnqXCAVjR8%3D" alt="Sakil Ahmed | Backend Developer Banner" width="50%">
-</p>
-
 <h1 align="center">Hi there, I'm Sakil Ahmed 👋</h1>
 <p align="center"><strong>Backend Developer • APIs | Microservices | Databases</strong></p>
 
