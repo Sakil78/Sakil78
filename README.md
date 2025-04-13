@@ -1,53 +1,55 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Backend Developer - Sakil Ahmed" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakil78/Sakil78/main/A_digital_graphic_displays_a_personal_banner_for_S.png" alt="Sakil Ahmed | Backend Developer Banner" width="100%">
+</p>
+
+<h1 align="center">Hi there, I'm Sakil Ahmed 👋</h1>
+<p align="center"><strong>Backend Developer • APIs | Microservices | Databases</strong></p>
 
 ---
 
-## 👋 Hello, I'm Sakil Ahmed — Backend Developer
+### 💼 About Me
 
-🎓 Computer Science graduate with a passion for crafting efficient and scalable systems.  
-🚀 Currently diving deep into **microservices**, **Spring Boot**, and **distributed systems**.  
-📚 Lifelong learner, problem solver, and system design enthusiast.  
+🔧 Passionate about designing scalable backend architectures, developing reliable REST APIs, and working with distributed systems.  
+🧠 Problem-solver with a knack for clean, maintainable code and a drive to build impactful solutions.  
+🚀 Currently focused on mastering backend frameworks, cloud-native development, and system design.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Languages:** Java, Python, JavaScript  
-- **Backend:** Spring Boot, Flask, Express.js  
+- **Frameworks:** Spring Boot, Express.js, Node.js  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** Git, Docker, Postman, VS Code  
-- **Cloud & DevOps:** GCP, Azure, Firebase, REST APIs
+- **Tools & DevOps:** Docker, Postman, Git, Redis  
+- **Cloud:** AWS (Lambda, EC2), Firebase  
+- **Others:** REST APIs, Microservices, JSON, JWT, MVC, ORM
 
 ---
 
-## 🔍 What I'm Learning
+### 📚 What I’m Learning
 
-- System Design & Architecture  
-- Clean Code Principles & Design Patterns  
-- Cloud-native Development & CI/CD  
-- High-performance backend engineering
-
----
-
-## 📈 GitHub Stats
-
-![Sakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakil78&show_icons=true&theme=github_dark&hide=prs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakil78&layout=compact&theme=github_dark)
+- Advanced System Design & Architecture  
+- Cloud Computing (AWS/GCP)  
+- Event-Driven Architecture  
+- CI/CD & Monitoring Tools  
 
 ---
 
-## 📫 Reach Out to Me
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://linkedin.com/in/sakil-ahmed-9417189b)
-- 📬 Email: ahmedsakil2014@hotmail.com
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakil78&show_icons=true&theme=tokyonight" alt="Sakil's GitHub stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakil78&layout=compact&theme=tokyonight" alt="Most used languages" width="49%">
+</p>
 
 ---
 
+### 📬 Reach Out to Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sakil-ahmed-9417189b)
+- 📧 Email: ahmedsakil2014@hotmail.com
+
+---
+
+⭐ _Thank you for visiting! Let’s connect and build something awesome together._
