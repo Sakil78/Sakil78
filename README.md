@@ -13,8 +13,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, Express.js, Node.js  
+- **Languages:** Java, Python, JavaScript, C++
+- **Frameworks:** Spring Boot, Express.js, Node.js, Next.Js
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Tools & DevOps:** Docker, Postman, Git, Redis  
 - **Cloud:** AWS (Lambda, EC2), Firebase  
