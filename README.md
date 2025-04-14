@@ -47,7 +47,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
