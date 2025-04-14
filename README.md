@@ -45,9 +45,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="55" height="55" /><br>C#</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
@@ -59,19 +56,15 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/scrapy-green" width="55" height="55" /><br>Scrapy</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-blue" width="55" height="55" /><br>OpenAI</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/gitlabactions-orange" width="55" height="55" /><br>GitLab Actions</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/selenium-darkblue" width="55" height="55" /><br>Selenium</td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/grafana-orange" width="55" height="55" /><br>Grafana</td>
