@@ -5,29 +5,29 @@
 
 ### 💼 About Me
 
-🔧 Passionate about designing scalable backend architectures, developing reliable REST APIs, and working with distributed systems.  
-🧠 Problem-solver with a knack for clean, maintainable code and a drive to build impactful solutions.  
-🚀 Currently focused on mastering backend frameworks, cloud-native development, and system design.
+🔧 Passionate about designing **scalable backend architectures**, building **robust REST APIs**, and working with **distributed systems**.  
+🧠 Problem-solver with a love for **clean, maintainable code** and a drive to build **impactful solutions**.  
+🚀 Currently focused on mastering **backend frameworks, cloud-native development**, and **system design**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript, C++
-- **Frameworks:** Spring Boot, Express.js, Node.js, Next.Js
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools & DevOps:** Docker, Postman, Git, Redis  
-- **Cloud:** AWS (Lambda, EC2), Firebase  
-- **Others:** REST APIs, Microservices, JSON, JWT, MVC, ORM
+- **Languages:** ![Java](https://skillicons.dev/icons?i=java) Java • ![Python](https://skillicons.dev/icons?i=python) Python • ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript • C++
+- **Frameworks:** ![Spring](https://skillicons.dev/icons?i=spring) Spring Boot • ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js • Express.js • ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js
+- **Databases:** ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL • ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL • ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB
+- **DevOps & Tools:** ![Docker](https://skillicons.dev/icons?i=docker) Docker • ![Redis](https://skillicons.dev/icons?i=redis) Redis • Postman • Git
+- **Cloud & Other:** ![AWS](https://skillicons.dev/icons?i=aws) AWS (Lambda, EC2) • Firebase  
+- **Concepts:** REST APIs • Microservices • MVC • ORM • JWT • JSON
 
 ---
 
 ### 📚 What I’m Learning
 
-- Advanced System Design & Architecture  
-- Cloud Computing (AWS/GCP)  
-- Event-Driven Architecture  
-- CI/CD & Monitoring Tools  
+- 📐 Advanced **System Design & Architecture**  
+- ☁️ Cloud Computing (**AWS** / **GCP**)  
+- 🔄 Event-Driven Architecture  
+- ⚙️ CI/CD & Monitoring Tools (e.g. Grafana, Prometheus)
 
 ---
 
@@ -43,8 +43,8 @@
 ### 📬 Reach Out to Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sakil-ahmed-9417189b)
-- 📧 Email: ahmedsakil2014@hotmail.com
+- 📧 **Email:** ahmedsakil2014@hotmail.com
 
 ---
 
-⭐ _Thank you for visiting! Let’s connect and build something awesome together._
+⭐ _Thanks for visiting! Let’s connect and build something awesome together._
