@@ -1,4 +1,19 @@
-<h1 align="center">Hi there, I'm Sakil Ahmed 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakilahmed5249.sakilahmed5249">
+
+<h1 align="center">
+  <a href="https://github.com/sakilahmed5249">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SAKIL+AHMED....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href=" " title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+  <code><a href=" " title="HackerRank Profile"><img width="22" src="https://cdn.simpleicons.org/hackerrank/2EC866"> HackerRank</a></code>
+  <code><a href=" " title="Stack Overflow Profile"><img width="22" src="https://cdn.simpleicons.org/stackoverflow/FE7A16"> Stack Overflow</a></code>
+  <code><a href=" " title="Instagram Profile"><img width="22" src="https://cdn.simpleicons.org/instagram/E4405F"> Instagram</a></code>
+</h5>
+<br>
+
 <p align="center"><strong>Backend Developer • APIs | Microservices | Databases</strong></p>
 
 ---
