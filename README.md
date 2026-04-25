@@ -98,14 +98,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakil78&show_icons=true&theme=tokyonight" alt="Sakil's GitHub stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakil78&layout=compact&theme=tokyonight" alt="Most used languages" width="49%">
-</p>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡📊 GitHub Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
