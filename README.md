@@ -123,7 +123,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sakil-ahmed-9417189b)
 - 📧 **Email:** ahmedsakil2014@hotmail.com
-
+- 🌐 [Portfolio](https://www.sakilahmed.me)
 ---
 
 ⭐ _Thanks for visiting! Let’s connect and build something awesome together._
